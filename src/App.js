@@ -72,7 +72,7 @@ function App() {
 <br /><br /><br />
   <div className="container">
   <div className="text-center">
-    <div className="row">
+    <div className="row" style={{margin:"auto"}}>
     <div className="col-md-6 my-2">
   <div className="article-container"><br/><h2>Skills</h2>
   <br/>
@@ -85,7 +85,7 @@ function App() {
   </div>
   </div>
   <div className="col-md-6 my-2">
-   <div className="row">
+   <div className="row" style={{margin:"auto"}}>
    <div className="col-md-4 my-2">
       <img src="icons8-python.gif" height={100} alt="Python"></img>
     </div>
@@ -119,6 +119,7 @@ function App() {
     
     
     
+    
 
 
    </div>
@@ -132,7 +133,7 @@ function App() {
 <section id='achievements' className="marg">
 <br /><br /><br />
 
-<div className="row">
+<div className="row" style={{margin:"auto"}}>
     <div className="col-md-6 my-2">
   <div className="achievement-container">
     <div className="text-center">
@@ -188,16 +189,18 @@ function App() {
 </div>
 </div>
 <div className="col-md-6 my-2">
-  <div className="row">
+  <div className="text-center">
+  <div className="row" style={{margin:"auto"}}>
   <div className="col-md-4 my-2">
-      <img src="knight.png" height={100} alt="Leetcode Knight Badge"></img>
+      <a href="https://leetcode.com/u/joyjitdas3918/"><img src="knight.png" height={100} alt="Leetcode Knight Badge"></img></a>
     </div>
     <div className="col-md-4 my-2">
-      <img src="codechef.png" height={100} alt="Codechef logo"></img>
+      <a href="https://www.codechef.com/users/griffin_codes"><img src="codechef.png" height={100} alt="Codechef logo"></img></a>
     </div>
     <div className="col-md-4 my-2">
-      <img src="codeforces.png" height={100} alt="Codeforces logo"></img>
+      <a href="https://codeforces.com/profile/joyjit_7"><img src="codeforces.png" height={100} alt="Codeforces logo"></img></a>
     </div>
+  </div>
   </div>
 </div>
 </div>
