@@ -113,6 +113,9 @@ function App() {
     <div className="col-md-4 my-2">
       <img src="icons8-mysql-48.png" height={100} alt="MySQL"></img>
     </div>
+    <div className="col-md-12 my-2">
+      <img src="icons8-pandas-48.png" height={100} alt="pandas"></img>
+    </div>
     
     
     
