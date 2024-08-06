@@ -72,6 +72,8 @@ function App() {
 <br /><br /><br />
   <div className="container">
   <div className="text-center">
+    <div className="row">
+    <div className="col-md-6 my-2">
   <div className="article-container"><br/><h2>Skills</h2>
   <br/>
       <h3>Programming</h3><h4>C, C++, Java, Python</h4> 
@@ -82,8 +84,17 @@ function App() {
       <br/><h3>Machine Learning</h3><h4>pandas, scikit-learn, keras</h4> <br/>
   </div>
   </div>
+  <div className="col-md-6 my-2">
+   <div className="row">
+    <div className="col-md-3">
+      <img src="icons8-python.gif" alt="python"></img>
+    </div>
+   </div>
   </div>
-
+  
+  </div>
+  </div>
+  </div>
 </section>
 
 <section id='achievements' className="marg">
