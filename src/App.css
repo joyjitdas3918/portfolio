@@ -36,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+
+.image-profile{
+  max-width: 500px;
+  max-height: 500px;
+  width: 70%;
+  
+  margin-bottom: 20px;
+}
+
+.marg{
+  margin-top: 150px;
+  margin-bottom: 80px;
+}
+
+.article-container{
+  border: black 0.3rem solid;
+  max-width: 600px;
+  margin: auto;
+  border-style: double;
+  border-radius: 50px;
+  background-color: #ffc107;
+}
+.achievement-container{
+  border: black 0.3rem solid;
+  max-width: 600px;
+  margin: auto;
+  border-style: double;
+  background-color: #ffc107;
+  width: 90%;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2{
+  font-size: 40px;
+}
+
+h3{
+  font-size: 30px;
+}
+
+.vl {
+  border-left: 6px solid black;
+  position: relative;
+  margin-left: 50%;
+}
+footer {
+  background-color: #000000;
+  color: white;
+}
+
+center{
+  justify-content: center;
+  flex: display;
+}
+
+
