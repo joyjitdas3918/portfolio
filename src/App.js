@@ -72,9 +72,11 @@ function App() {
 <br /><br /><br />
   <div className="container">
   <div className="text-center">
+  <h2>Skills</h2>
+  <br />
     <div className="row" style={{margin:"auto"}}>
     <div className="col-md-6 my-2">
-  <div className="article-container"><br/><h2>Skills</h2>
+  <div className="article-container"><br/>
   <br/>
       <h3>Programming</h3><h4>C, C++, Java, Python</h4> 
       <br/>
@@ -209,10 +211,13 @@ function App() {
 
 <section id='projects' className="marg">
 <br /><br /><br />
-
+<div className="text-center">
+<h2>Projects</h2>
+<br />
+</div>
 <div className="achievement-container">
   <div className="text-center">
-  <h2>Projects</h2>
+  <h3>Project 1</h3>
   </div>
   <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
   <div className="carousel-inner">
