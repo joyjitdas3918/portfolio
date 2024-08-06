@@ -152,7 +152,7 @@ function App() {
   </div>
   <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
   <div className="carousel-inner">
-  <div className="carousel-item active" data-bs-interval="1500">
+  <div className="carousel-item active" data-bs-interval="5000">
     <div className="card">
   <img src="flutter.png"  className="card-img-top mx-7" alt="Smart Healthcare Disease Predictor App"/>
   <div className="card-body">
@@ -162,7 +162,7 @@ function App() {
   </div>
 </div>
     </div>
-    <div className="carousel-item active" data-bs-interval="1500">
+    <div className="carousel-item active" data-bs-interval="5000">
     <div className="card">
   <img src="flutter.png"  className="card-img-top mx-7" alt="Smart Healthcare Disease Predictor App"/>
   <div className="card-body">
