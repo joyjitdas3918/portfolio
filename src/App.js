@@ -131,6 +131,9 @@ function App() {
 
 <section id='achievements' className="marg">
 <br /><br /><br />
+
+<div className="row">
+    <div className="col-md-6 my-2">
   <div className="achievement-container">
     <div className="text-center">
   <h2>Achievements</h2>
@@ -174,6 +177,8 @@ function App() {
       </div>
       </div>
   </div>
+  </div>
+  </div>
 
     
   
@@ -181,6 +186,19 @@ function App() {
   
 </div>
 </div>
+</div>
+<div className="col-md-6 my-2">
+  <div className="row">
+  <div className="col-md-4 my-2">
+      <img src="knight.png" height={100} alt="Leetcode Knight Badge"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="codechef.png" height={100} alt="Codechef logo"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="codeforces.png" height={100} alt="Codeforces logo"></img>
+    </div>
+  </div>
 </div>
 </div>
 </section>
