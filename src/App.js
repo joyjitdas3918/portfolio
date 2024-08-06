@@ -76,7 +76,7 @@ function App() {
   <br/>
       <h3>Programming</h3><h4>C, C++, Java, Python</h4> 
       <br/>
-      <h3>Frontend</h3><h4>JavaScript, React js, Redux Flutter</h4> 
+      <h3>Frontend</h3><h4>JavaScript, React js, Redux, Flutter</h4> 
       <br/><h3>Backend</h3><h4>Node.js, Express.js</h4> 
       <br/><h3>Database</h3><h4>mySql, MongoDB, Firebase</h4> 
       <br/><h3>Machine Learning</h3><h4>pandas, scikit-learn, keras</h4> <br/>
