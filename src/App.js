@@ -78,7 +78,7 @@ function App() {
   <br/>
       <h3>Programming</h3><h4>C, C++, Java, Python</h4> 
       <br/>
-      <h3>Frontend</h3><h4>JavaScript, React js, Redux, Flutter</h4> 
+      <h3>Frontend</h3><h4>JavaScript, React js, Redux, Flutter(Dart)</h4> 
       <br/><h3>Backend</h3><h4>Node.js, Express.js</h4> 
       <br/><h3>Database</h3><h4>mySql, MongoDB, Firebase</h4> 
       <br/><h3>Machine Learning</h3><h4>pandas, scikit-learn, keras</h4> <br/>
@@ -86,9 +86,38 @@ function App() {
   </div>
   <div className="col-md-6 my-2">
    <div className="row">
-    <div className="col-md-3">
-      <img src="icons8-python.gif" alt="python"></img>
+   <div className="col-md-4 my-2">
+      <img src="icons8-python.gif" height={100} alt="Python"></img>
     </div>
+    <div className="col-md-4 my-2">
+      <img src="icons8-java.gif" height={100} alt="Java"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="icons8-javascript.gif" height={100} alt="JavaScript"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="icons8-react-native.gif" height={100} alt="React js"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="icons8-flutter-48.png" height={100} alt="Flutter"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="icons8-mongo-db-48.png" height={100} alt="MongoDB"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="icons8-nodejs-48.png" height={100} alt="Node.js"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="icons8-firebase-48.png" height={100} alt="Firebase"></img>
+    </div>
+    <div className="col-md-4 my-2">
+      <img src="icons8-mysql-48.png" height={100} alt="MySQL"></img>
+    </div>
+    
+    
+    
+
+
    </div>
   </div>
   
