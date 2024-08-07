@@ -78,6 +78,12 @@ h2{
 h3{
   font-size: 30px;
 }
+h4{
+  font-size: 25px;
+}
+h5{
+  font-size: 20px;
+}
 
 .vl {
   border-left: 6px solid black;

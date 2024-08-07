@@ -77,13 +77,12 @@ function App() {
     <div className="row" style={{margin:"auto"}}>
     <div className="col-md-6 my-2">
   <div className="article-container"><br/>
-  <br/>
-      <h3>Programming</h3><h4>C, C++, Java, Python</h4> 
+      <h3>Programming</h3><h5>C, C++, Java, Python</h5> 
       <br/>
-      <h3>Frontend</h3><h4>JavaScript, React js, Redux, Flutter(Dart)</h4> 
-      <br/><h3>Backend</h3><h4>Node.js, Express.js</h4> 
-      <br/><h3>Database</h3><h4>mySql, MongoDB, Firebase</h4> 
-      <br/><h3>Machine Learning</h3><h4>pandas, scikit-learn, keras</h4> <br/>
+      <h3>Frontend</h3><h5>JavaScript, React js, Redux, Flutter(Dart)</h5> 
+      <br/><h3>Backend</h3><h5>Node.js, Express.js</h5> 
+      <br/><h3>Database</h3><h5>mySql, MongoDB, Firebase</h5> 
+      <br/><h3>Machine Learning</h3><h5>pandas, scikit-learn, keras</h5> <br/>
   </div>
   </div>
   <div className="col-md-6 my-2">
@@ -153,6 +152,7 @@ function App() {
         <a href="https://leetcode.com/u/joyjitdas3918/">Leetcode Profile</a>
         </div>
     </div>
+    </div>
     
     <div className="accordion-item">
     <h2 className="accordion-header">
@@ -165,6 +165,7 @@ function App() {
         <h6>I have a peak rating of 1619.</h6>
         <a href="https://codeforces.com/profile/joyjit_7">Codeforces Profile</a>
         </div>
+  </div>
   </div>
 
   <div className="accordion-item">
@@ -216,8 +217,6 @@ function App() {
   
   </div>
   
-</div>
-</div>
 </div>
 <div className="row-md-6 my-2">
   <div className="text-center">
