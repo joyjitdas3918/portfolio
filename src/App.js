@@ -179,7 +179,36 @@ function App() {
       <a href="https://www.codechef.com/users/griffin_codes">Codechef Profile</a>
       </div>
       </div>
-  </div>
+      </div>
+
+      <div className="accordion-item">
+    <h2 className="accordion-header">
+      <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+        Secured 51st rank in Leetcode Weekly Contest 399
+      </button>
+    </h2>
+    <div id="flush-collapseFour" className="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+      <div className="accordion-body">
+      <h6>I have secured 51st rank in Leetcode Weekly Contest 399.</h6>
+      <a href="https://www.linkedin.com/in/joyjit-das-a380a1207/recent-activity/all/">LinkedIn Post</a>
+      </div>
+      </div>
+      </div>
+
+
+      <div className="accordion-item">
+    <h2 className="accordion-header">
+      <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+        Secured 48th rank in Codevita Season 11
+      </button>
+    </h2>
+    <div id="flush-collapseFive" className="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+      <div className="accordion-body">
+      <h6>I have secured 48th rank in Codevita Season 11.</h6>
+      </div>
+      </div>
+      </div>
+      
   </div>
   </div>
 
@@ -192,7 +221,7 @@ function App() {
 </div>
 <div className="row-md-6 my-2">
   <div className="text-center">
-  <div className="row" style={{margin:"auto" ,width:"70%"}}>
+  <div className="row" style={{margin:"auto" ,width:"90%"}}>
   <div className="col-md-4 my-5">
       <a href="https://leetcode.com/u/joyjitdas3918/"><img src="knight.png" height={100} alt="Leetcode Knight Badge"></img></a>
     </div>
