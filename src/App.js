@@ -249,7 +249,6 @@ function App() {
     
     
   </div>
-  </div>
   
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
     <span className="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -259,6 +258,8 @@ function App() {
     <span className="carousel-control-next-icon" aria-hidden="true"></span>
     <span className="visually-hidden">Next</span>
   </button>
+  
+  </div>
 
   <div className="card-body">
     <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
