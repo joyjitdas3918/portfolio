@@ -226,12 +226,12 @@ function App() {
     
     <div className="carousel-item active" data-bs-interval="5000">
 
-  <img src="modal.png" alt="Modal Bottom Sheet"/>
+  <img src="modal.png" className="card-img-top mx-7" alt="Modal Bottom Sheet"/>
   
     </div>
     <div className="carousel-item active" data-bs-interval="5000">
     
-  <img src="heart.png"  alt="Heart Disease Predictor"/>
+  <img src="heart.png" className="card-img-top mx-7" alt="Heart Disease Predictor"/>
   
     </div>
     <div className="carousel-item active" data-bs-interval="5000">
@@ -239,11 +239,11 @@ function App() {
   
     </div>
   <div className="carousel-item active" data-bs-interval="5000">
-  <img src="startapp.png"   alt="Splash Screen"/>
+  <img src="startapp.png" className="card-img-top mx-7" alt="Splash Screen"/>
 </div>
 <div className="carousel-item active" data-bs-interval="5000">
     
-  <img src="flutter.png"  alt="Dashboard"/>
+  <img src="flutter.png" className="card-img-top mx-7" alt="Dashboard"/>
 
 </div>
     
