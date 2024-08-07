@@ -135,8 +135,8 @@ function App() {
 <section id='achievements' className="marg">
 <br /><br /><br />
 
-<div className="row" style={{margin:"auto"}}>
-    <div className="col-md-6 my-2">
+<div className="col" style={{margin:"auto"}}>
+    <div className="row-md-6 my-2">
   <div className="achievement-container">
     <div className="text-center">
   <h2>Achievements</h2>
@@ -190,16 +190,16 @@ function App() {
 </div>
 </div>
 </div>
-<div className="col-md-6 my-2">
+<div className="row-md-6 my-2">
   <div className="text-center">
   <div className="row" style={{margin:"auto"}}>
-  <div className="col-md-4 my-2">
+  <div className="col-md-4 my-5">
       <a href="https://leetcode.com/u/joyjitdas3918/"><img src="knight.png" height={100} alt="Leetcode Knight Badge"></img></a>
     </div>
-    <div className="col-md-4 my-2">
+    <div className="col-md-4 my-5">
       <a href="https://www.codechef.com/users/griffin_codes"><img src="codechef.png" height={100} alt="Codechef logo"></img></a>
     </div>
-    <div className="col-md-4 my-2">
+    <div className="col-md-4 my-5">
       <a href="https://codeforces.com/profile/joyjit_7"><img src="codeforces.png" height={100} alt="Codeforces logo"></img></a>
     </div>
   </div>
