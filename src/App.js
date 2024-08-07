@@ -192,7 +192,7 @@ function App() {
 </div>
 <div className="row-md-6 my-2">
   <div className="text-center">
-  <div className="row" style={{margin:"auto"}}>
+  <div className="row" style={{margin:"auto" ,width:"70%"}}>
   <div className="col-md-4 my-5">
       <a href="https://leetcode.com/u/joyjitdas3918/"><img src="knight.png" height={100} alt="Leetcode Knight Badge"></img></a>
     </div>
