@@ -219,59 +219,36 @@ function App() {
   <div className="text-center">
   <h3>Project 1</h3>
   </div>
+  <div className="card">
   <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
   <div className="carousel-inner">
-  <div className="carousel-item active" data-bs-interval="5000">
-    <div className="card">
-  <img src="startapp.png"  className="card-img-top mx-7" alt="Smart Healthcare Disease Predictor App"/>
-  <div className="card-body">
-    <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
-    <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
-    <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-primary">Github Link</a>
-  </div>
-</div>
-    </div>
-    <div className="carousel-item active" data-bs-interval="5000">
-    <div className="card">
-  <img src="flutter.png"  className="card-img-top mx-7" alt="Smart Healthcare Disease Predictor App"/>
-  <div className="card-body">
-    <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
-    <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
-    <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-primary">Github Link</a>
-  </div>
-</div>
-    </div>
-    <div className="carousel-item active" data-bs-interval="5000">
-    <div className="card">
-  <img src="modal.png"  className="card-img-top mx-7" alt="Smart Healthcare Disease Predictor App"/>
-  <div className="card-body">
-    <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
-    <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
-    <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-primary">Github Link</a>
-  </div>
-</div>
-    </div>
-    <div className="carousel-item active" data-bs-interval="5000">
-    <div className="card">
-  <img src="heart.png"  className="card-img-top mx-7" alt="Smart Healthcare Disease Predictor App"/>
-  <div className="card-body">
-    <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
-    <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
-    <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-primary">Github Link</a>
-  </div>
-</div>
-    </div>
-    <div className="carousel-item active" data-bs-interval="5000">
-    <div className="card">
-  <img src="location.png"  className="card-img-top mx-7" alt="Smart Healthcare Disease Predictor App"/>
-  <div className="card-body">
-    <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
-    <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
-    <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-primary">Github Link</a>
-  </div>
-</div>
-    </div>
+  
     
+    <div className="carousel-item active" data-bs-interval="5000">
+
+  <img src="modal.png" alt="Modal Bottom Sheet"/>
+  
+    </div>
+    <div className="carousel-item active" data-bs-interval="5000">
+    
+  <img src="heart.png"  alt="Heart Disease Predictor"/>
+  
+    </div>
+    <div className="carousel-item active" data-bs-interval="5000">
+  <img src="location.png"  className="card-img-top mx-7" alt="Nearest Clinic"/>
+  
+    </div>
+  <div className="carousel-item active" data-bs-interval="5000">
+  <img src="startapp.png"   alt="Splash Screen"/>
+</div>
+<div className="carousel-item active" data-bs-interval="5000">
+    
+  <img src="flutter.png"  alt="Dashboard"/>
+
+</div>
+    
+    
+  </div>
   </div>
   
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -283,8 +260,17 @@ function App() {
     <span className="visually-hidden">Next</span>
   </button>
 
+  <div className="card-body">
+    <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
+    <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
+    <p className="card-text">Tech Stack: Flutter(Dart), Firebase, OpenMap API, Python, pandas, scikit-learn, keras</p>
+    
+    <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-primary">Github Link</a>
+  </div>
+  
 </div>
 </div>
+  
 
 </section>
 <section id='education' className="marg">
