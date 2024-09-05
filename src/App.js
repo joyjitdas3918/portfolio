@@ -49,7 +49,7 @@ function App() {
     <div className="column" style={{margin: "auto", alignItems:"center"}}>
     <button type="button" className="btn btn-outline-warning mx-2">Download Resume</button>
     
-    <button type="button" className="btn btn-warning mx-2 ">Contact Me</button>
+    <button type="button" className="btn btn-warning mx-2 "><AnchorLink className="nav-link" href="/contact">Contact Me</AnchorLink></button>
 
     </div>
     <br />
