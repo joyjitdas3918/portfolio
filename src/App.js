@@ -243,6 +243,8 @@ function App() {
 <h2>Projects</h2>
 <br />
 </div>
+<div className="row">
+  <div className="col-md-4 mx-2 d-flex">
 <div className="achievement-container">
   <div className="text-center">
   <h3>Project 1</h3>
@@ -299,7 +301,30 @@ function App() {
   
 </div>
 </div>
+</div>
+<div className="col-md-4 mx-2 d-flex">
+<div className="achievement-container">
+  <div className="text-center">
+  <h3>Project 2</h3>
+  </div>
+  <div className="card">
+  <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" height={500}></iframe>
+
+  <div className="card-body">
+    <h5 className="card-title">Phodit - where photographers and editors meet</h5>
+    <p className="card-text">A MERN stack website (repository/social media) where photographers upload pictures to be edited by editors.</p>
+    <p className="card-text">Tech Stack: MongoDB, Express.js, Node.js, React js</p>
+    
+    <a href="https://github.com/joyjitdas3918/Phodit---Frontend" className="btn btn-primary">Github Link Frontend</a>
+    <br />
+    <a href="https://github.com/joyjitdas3918/Phodit---Backend" className="btn btn-primary my-2">Github Link Backend</a>
+    
+  </div>
   
+</div>
+</div>
+</div>
+</div>
 
 </section>
 <section id='education' className="marg">
