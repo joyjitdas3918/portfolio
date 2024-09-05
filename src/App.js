@@ -295,8 +295,10 @@ function App() {
     <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
     <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
     <p className="card-text">Tech Stack: Flutter(Dart), Firebase, OpenMap API, Python, pandas, scikit-learn, keras</p>
-    
-    <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-primary">Github Link</a>
+    <div className="row">
+          <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-primary">Github Link</a>
+          </div>
+
   </div>
   
 </div>
@@ -315,10 +317,13 @@ function App() {
     <p className="card-text">A MERN stack website (repository/social media) where photographers upload pictures to be edited by editors.</p>
     <p className="card-text">Tech Stack: MongoDB, Express.js, Node.js, React js</p>
     
-    <a href="https://github.com/joyjitdas3918/Phodit---Frontend" className="btn btn-primary">Github Link Frontend</a>
+    <div className="row">
+    <a href="https://phodit.onrender.com/discover" className="btn btn-primary my-2">Website Link</a>
+    <br />
+    <a href="https://github.com/joyjitdas3918/Phodit---Frontend" className="btn btn-primary my-2">Github Link Frontend</a>
     <br />
     <a href="https://github.com/joyjitdas3918/Phodit---Backend" className="btn btn-primary my-2">Github Link Backend</a>
-    
+    </div>
   </div>
   
 </div>
