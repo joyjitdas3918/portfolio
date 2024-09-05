@@ -320,9 +320,9 @@ function App() {
     <div className="row">
     <a href="https://phodit.onrender.com/discover" className="btn btn-warning my-2">Website Link</a>
     <br />
-    <a href="https://github.com/joyjitdas3918/Phodit---Frontend" className="btn btn-warning my-2">Github Link Frontend</a>
+    <a href="https://github.com/joyjitdas3918/Phodit---Frontend" className="btn btn-warning my-2">Github Link (Frontend)</a>
     <br />
-    <a href="https://github.com/joyjitdas3918/Phodit---Backend" className="btn btn-warning my-2">Github Link Backend</a>
+    <a href="https://github.com/joyjitdas3918/Phodit---Backend" className="btn btn-warning my-2">Github Link (Backend)</a>
     </div>
   </div>
   
