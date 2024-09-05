@@ -243,8 +243,8 @@ function App() {
 <h2>Projects</h2>
 <br />
 </div>
-<div className="row">
-  <div className="col-md-4 mx-2 d-flex">
+<div className="row" style={{margin:"auto"}}>
+  <div className="col-md-4 my-2 d-flex">
 <div className="achievement-container">
   <div className="text-center">
   <h3>Project 1</h3>
@@ -302,7 +302,7 @@ function App() {
 </div>
 </div>
 </div>
-<div className="col-md-4 mx-2 d-flex">
+<div className="col-md-4 my-2 d-flex" >
 <div className="achievement-container">
   <div className="text-center">
   <h3>Project 2</h3>
