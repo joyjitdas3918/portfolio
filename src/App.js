@@ -249,31 +249,31 @@ function App() {
   <div className="text-center">
   <h3>Project 1</h3>
   </div>
-  <div className="card" style={{height:800}}>
-  <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel" style={{height:450}}>
+  <div className="card" style={{height:900}}>
+  <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel" style={{height:600}}>
   <div className="carousel-inner" >
   
     
     <div className="carousel-item active" data-bs-interval="5000">
 
-  <img src="modal.png" className="card-img-top mx-7" alt="Modal Bottom Sheet" height={450} width={800}/>
+  <img src="modal.png" className="card-img-top mx-7" alt="Modal Bottom Sheet"/>
   
     </div>
     <div className="carousel-item active" data-bs-interval="5000">
     
-  <img src="heart.png" className="card-img-top mx-7" alt="Heart Disease Predictor" height={450} width={800}/>
+  <img src="heart.png" className="card-img-top mx-7" alt="Heart Disease Predictor"/>
   
     </div>
     <div className="carousel-item active" data-bs-interval="5000">
-  <img src="location.png"  className="card-img-top mx-7" alt="Nearest Clinic" height={450} width={800}/>
+  <img src="location.png"  className="card-img-top mx-7" alt="Nearest Clinic"/>
   
     </div>
   <div className="carousel-item active" data-bs-interval="5000">
-  <img src="startapp.png" className="card-img-top mx-7" alt="Splash Screen" height={450} width={800}/>
+  <img src="startapp.png" className="card-img-top mx-7" alt="Splash Screen"/>
 </div>
 <div className="carousel-item active" data-bs-interval="5000">
     
-  <img src="flutter.png" className="card-img-top mx-7" alt="Dashboard" height={450} width={800}/>
+  <img src="flutter.png" className="card-img-top mx-7" alt="Dashboard"/>
 
 </div>
     
@@ -309,8 +309,8 @@ function App() {
   <div className="text-center">
   <h3>Project 2</h3>
   </div>
-  <div className="card" style={{height:800}}>
-  <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" height={450}></iframe>
+  <div className="card" style={{height:900}}>
+  <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" height={600}></iframe>
 
   <div className="card-body">
     <h5 className="card-title">Phodit - where photographers and editors meet</h5>
