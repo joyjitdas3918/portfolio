@@ -295,6 +295,8 @@ function App() {
     <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
     <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
     <p className="card-text">Tech Stack: Flutter(Dart), Firebase, OpenMap API, Python, pandas, scikit-learn, keras</p>
+    <br />
+    <br />
     <div className="row">
           <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-warning" >Github Link</a>
           </div>
