@@ -249,9 +249,9 @@ function App() {
   <div className="text-center">
   <h3>Project 1</h3>
   </div>
-  <div className="card">
+  <div className="card" style={{height:800}}>
   <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
-  <div className="carousel-inner">
+  <div className="carousel-inner" style={{height:450}}>
   
     
     <div className="carousel-item active" data-bs-interval="5000">
@@ -296,7 +296,7 @@ function App() {
     <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
     <p className="card-text">Tech Stack: Flutter(Dart), Firebase, OpenMap API, Python, pandas, scikit-learn, keras</p>
     <div className="row">
-          <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-warning">Github Link</a>
+          <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-warning" >Github Link</a>
           </div>
 
   </div>
@@ -309,8 +309,8 @@ function App() {
   <div className="text-center">
   <h3>Project 2</h3>
   </div>
-  <div className="card">
-  <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" height={500}></iframe>
+  <div className="card" style={{height:800}}>
+  <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" height={450}></iframe>
 
   <div className="card-body">
     <h5 className="card-title">Phodit - where photographers and editors meet</h5>
