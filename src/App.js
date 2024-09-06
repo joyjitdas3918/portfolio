@@ -256,24 +256,24 @@ function App() {
     
     <div className="carousel-item active" data-bs-interval="5000">
 
-  <img src="modal.png" className="card-img-top mx-7" alt="Modal Bottom Sheet" height={450} width="auto"/>
+  <img src="modal.png" className="card-img-top mx-7" alt="Modal Bottom Sheet" height={450} width={800}/>
   
     </div>
     <div className="carousel-item active" data-bs-interval="5000">
     
-  <img src="heart.png" className="card-img-top mx-7" alt="Heart Disease Predictor" height={450} width="auto"/>
+  <img src="heart.png" className="card-img-top mx-7" alt="Heart Disease Predictor" height={450} width={800}/>
   
     </div>
     <div className="carousel-item active" data-bs-interval="5000">
-  <img src="location.png"  className="card-img-top mx-7" alt="Nearest Clinic" height={450} width="auto"/>
+  <img src="location.png"  className="card-img-top mx-7" alt="Nearest Clinic" height={450} width={800}/>
   
     </div>
   <div className="carousel-item active" data-bs-interval="5000">
-  <img src="startapp.png" className="card-img-top mx-7" alt="Splash Screen" height={450} width="auto"/>
+  <img src="startapp.png" className="card-img-top mx-7" alt="Splash Screen" height={450} width={800}/>
 </div>
 <div className="carousel-item active" data-bs-interval="5000">
     
-  <img src="flutter.png" className="card-img-top mx-7" alt="Dashboard" height={450} width="auto"/>
+  <img src="flutter.png" className="card-img-top mx-7" alt="Dashboard" height={450} width={800}/>
 
 </div>
     
