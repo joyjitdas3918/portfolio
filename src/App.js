@@ -249,7 +249,7 @@ function App() {
   <div className="text-center">
   <h3>Project 1</h3>
   </div>
-  <div className="card" style={{height:900}}>
+  <div className="card" style={{height:1000}}>
   <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel" style={{height:600}}>
   <div className="carousel-inner" >
   
@@ -309,7 +309,7 @@ function App() {
   <div className="text-center">
   <h3>Project 2</h3>
   </div>
-  <div className="card" style={{height:900}}>
+  <div className="card" style={{height:1000}}>
   <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" height={600}></iframe>
 
   <div className="card-body">
