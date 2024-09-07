@@ -249,35 +249,35 @@ function App() {
   <div className="text-center">
   <h3>Project 1</h3>
   </div>
-  <div className="card" style={{height:1000}}>
-  <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel" style={{height:600}}>
-  <div className="carousel-inner" >
+  <div className="card">
+  <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
+    <div className="container" style={{height:201, width:108}}>
+  <div className="carousel-inner" style={{height:201, width:108}}>
   
-    
     <div className="carousel-item" data-bs-interval="5000">
 
-  <img src="modal.png" className="card-img-top mx-7" alt="Modal Bottom Sheet" height={600}/>
+  <img src="modal.png" className="card-img-top mx-7" alt="Modal Bottom Sheet" />
   
     </div>
     <div className="carousel-item" data-bs-interval="5000">
     
-  <img src="heart.png" className="card-img-top mx-7" alt="Heart Disease Predictor" height={600}/>
+  <img src="heart.png" className="card-img-top mx-7" alt="Heart Disease Predictor" />
   
     </div>
     <div className="carousel-item" data-bs-interval="5000">
-  <img src="location.png"  className="card-img-top mx-7" alt="Nearest Clinic" height={600}/>
+  <img src="location.png"  className="card-img-top mx-7" alt="Nearest Clinic" />
   
     </div>
   <div className="carousel-item" data-bs-interval="5000">
-  <img src="startapp.png" className="card-img-top mx-7" alt="Splash Screen" height={600}/>
+  <img src="startapp.png" className="card-img-top mx-7" alt="Splash Screen" />
 </div>
 <div className="carousel-item active" data-bs-interval="5000">
     
-  <img src="flutter.png" className="card-img-top mx-7" alt="Dashboard" height={600}/>
+  <img src="flutter.png" className="card-img-top mx-7" alt="Dashboard" />
 
 </div>
     
-    
+</div>
   </div>
   
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -310,20 +310,24 @@ function App() {
   <div className="text-center">
   <h3>Project 2</h3>
   </div>
-  <div className="card" style={{height:1000}}>
-  <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" height={600}></iframe>
-
+  <div className="card">
+    <div className="carousel-inner" style={{height:160}}>
+  <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" style={{transformOrigin:"top left",
+  width: "200%",
+  height: "200%",
+  transform: "scale(0.5)"}}></iframe>
+  </div>
   <div className="card-body">
     <h5 className="card-title">Phodit - where photographers and editors meet</h5>
     <p className="card-text">A MERN stack website (repository/social media) where photographers upload pictures to be edited by editors.</p>
     <p className="card-text">Tech Stack: MongoDB, Express.js, Node.js, React js</p>
     
     <div className="row">
-    <a href="https://phodit.onrender.com/discover" className="btn btn-warning my-2">Website Link</a>
+    <a href="https://phodit.onrender.com/discover" className="btn btn-warning mb-2">Website Link</a>
     <br />
-    <a href="https://github.com/joyjitdas3918/Phodit---Frontend" className="btn btn-warning my-2">Github Link (Frontend)</a>
+    <a href="https://github.com/joyjitdas3918/Phodit---Frontend" className="btn btn-warning mb-2">Github Link (Frontend)</a>
     <br />
-    <a href="https://github.com/joyjitdas3918/Phodit---Backend" className="btn btn-warning my-2">Github Link (Backend)</a>
+    <a href="https://github.com/joyjitdas3918/Phodit---Backend" className="btn btn-warning">Github Link (Backend)</a>
     </div>
   </div>
   
