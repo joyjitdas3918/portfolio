@@ -251,7 +251,7 @@ function App() {
   </div>
   <div className="card">
   <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
-    <div className="container" style={{height:210, width:109}}>
+    <div className="container" style={{height:210, width:115}}>
   <div className="carousel-inner">
   
     <div className="carousel-item" data-bs-interval="5000">
