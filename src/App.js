@@ -82,7 +82,7 @@ function App() {
       <h3>Frontend</h3><h5>JavaScript, React js, Redux, Flutter(Dart)</h5> 
       <br/><h3>Backend</h3><h5>Node.js, Express.js</h5> 
       <br/><h3>Database</h3><h5>mySql, MongoDB, Firebase</h5> 
-      <br/><h3>Machine Learning</h3><h5>pandas, scikit-learn, keras</h5> <br/>
+      <br/><h3>Machine Learning</h3><h5>pandas, scikit-learn</h5> <br/>
   </div>
   </div>
   <div className="col-md-6 my-2">
@@ -294,7 +294,7 @@ function App() {
   <div className="card-body">
     <h5 className="card-title">Smart Healthcare Disease Predictor App</h5>
     <p className="card-text">A flutter mobile application which detects proneness of a person to have a specific disease based on their lifestyle and clinical metrics.</p>
-    <p className="card-text">Tech Stack: Flutter(Dart), Firebase, OpenMap API, Python, pandas, scikit-learn, keras</p>
+    <p className="card-text">Tech Stack: Flutter(Dart), Firebase, OpenMap API, Python, pandas, scikit-learn</p>
     <br />
     <div className="row">
           <a href="https://github.com/joyjitdas3918/Smart-Healthcare-Disease-Predictor-App" className="btn btn-warning" >Github Link</a>
