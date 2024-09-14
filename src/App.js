@@ -312,7 +312,7 @@ function App() {
   </div>
   <div className="card">
     <div className="carousel-inner" style={{height:168}}>
-  <iframe src="https://phodit.onrender.com/discover" title="Phodit Website" style={{transformOrigin:"top left",
+  <iframe src="https://phodit.vercel.app/discover" title="Phodit Website" style={{transformOrigin:"top left",
   width: "200%",
   height: "200%",
   transform: "scale(0.5)"}}></iframe>
