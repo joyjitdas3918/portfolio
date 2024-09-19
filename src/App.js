@@ -323,7 +323,7 @@ function App() {
     <p className="card-text">Tech Stack: MongoDB, Express.js, Node.js, React js</p>
     
     <div className="row">
-    <a href="https://phodit.onrender.com/discover" className="btn btn-warning mb-2">Website Link</a>
+    <a href="https://phodit.vercel.app/discover" className="btn btn-warning mb-2">Website Link</a>
     <br />
     <a href="https://github.com/joyjitdas3918/Phodit---Frontend" className="btn btn-warning mb-2">Github Link (Frontend)</a>
     <br />
