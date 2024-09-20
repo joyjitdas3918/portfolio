@@ -79,9 +79,9 @@ function App() {
   <div className="article-container"><br/>
       <h3>Programming</h3><h5>C, C++, Java, Python</h5> 
       <br/>
-      <h3>Frontend</h3><h5>JavaScript, React js, Redux, Flutter(Dart)</h5> 
+      <h3>Frontend</h3><h5>JavaScript, React JS, Redux, Flutter(Dart)</h5> 
       <br/><h3>Backend</h3><h5>Node.js, Express.js</h5> 
-      <br/><h3>Database</h3><h5>mySql, MongoDB, Firebase</h5> 
+      <br/><h3>Database</h3><h5>mySQL, MongoDB, Firebase</h5> 
       <br/><h3>Machine Learning</h3><h5>pandas, scikit-learn</h5> <br/>
   </div>
   </div>
@@ -97,7 +97,7 @@ function App() {
       <img src="icons8-javascript.gif" height={100} alt="JavaScript"></img>
     </div>
     <div className="col-md-4 my-2">
-      <img src="icons8-react-native.gif" height={100} alt="React js"></img>
+      <img src="icons8-react-native.gif" height={100} alt="React JS"></img>
     </div>
     <div className="col-md-4 my-2">
       <img src="icons8-flutter-48.png" height={100} alt="Flutter"></img>
@@ -320,7 +320,7 @@ function App() {
   <div className="card-body">
     <h5 className="card-title">Phodit - where photographers and editors meet</h5>
     <p className="card-text">A MERN stack website (repository/social media) where photographers upload pictures to be edited by editors.</p>
-    <p className="card-text">Tech Stack: MongoDB, Express.js, Node.js, React js</p>
+    <p className="card-text">Tech Stack: MongoDB, Express.js, Node.js, React JS</p>
     
     <div className="row">
     <a href="https://phodit.vercel.app/discover" className="btn btn-warning mb-2">Website Link</a>
