@@ -47,7 +47,7 @@ function App() {
     <h1>Joyjit Das</h1>
     <h4>{whoami}</h4>
     <div className="column" style={{margin: "auto", alignItems:"center"}}>
-    <button type="button" className="btn btn-outline-warning mx-2">Download Resume</button>
+    <button type="button" className="btn btn-outline-warning mx-2"><a href="https://joyjit-resume.tiiny.site/" style={{textDecoration:"none", color:"inherit"}}>Download Resume</a></button>
     
     <button type="button" className="btn btn-warning mx-2 "><AnchorLink className="nav-link" href="/contact">Contact Me</AnchorLink></button>
 
